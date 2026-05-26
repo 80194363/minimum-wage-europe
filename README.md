@@ -27,5 +27,5 @@ streamlit run app.py
 
 ## Authors
 - Qiao Jieyun
-- [Name]
+- Adam Maxim Široký
 

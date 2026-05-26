@@ -12,12 +12,29 @@ Does a higher minimum wage lead to lower unemployment rates in Europe?
 - Exchange rates: Eurostat API (ert_bil_eur_a)
 
 ## How to Run
-1. Install dependencies:
+
+### 1. Install dependencies
+
+```bash
 pip install -r requirements.txt
-2. Run the notebook:
-Open Analysis.ipynb in Google Colab or Jupyter
-3. Run the Streamlit app:
+```
+
+### 2. Run the notebook
+
+Open `Analysis.ipynb`
+
+Recommended environments:
+- Jupyter Notebook
+- JupyterLab
+- Visual Studio Code
+
+### 3. Run the Streamlit app
+
+```bash
 streamlit run app.py
+```
+
+
 
 ## Main Findings
 - Statistically significant negative correlation between minimum wage and unemployment rate

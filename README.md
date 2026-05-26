@@ -15,7 +15,7 @@ Does a higher minimum wage lead to lower unemployment rates in Europe?
 1. Install dependencies:
 pip install -r requirements.txt
 2. Run the notebook:
-Open minimum_wage_europe.ipynb in Google Colab or Jupyter
+Open Analysis.ipynb in Google Colab or Jupyter
 3. Run the Streamlit app:
 streamlit run app.py
 

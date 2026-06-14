@@ -37,10 +37,11 @@ streamlit run app.py
 
 
 ## Main Findings
-- Statistically significant negative correlation between minimum wage and unemployment rate
-- Slope = -0.003, R² = 0.12, p < 0.05
-- Western Europe has highest minimum wages and lowest unemployment
-- Eastern Europe shows fastest wage growth in recent years
+- The pooled analysis suggests a statistically significant negative association between minimum wage levels and unemployment rates.
+- The estimated slope is approximately -0.003, with R² around 0.12 and p < 0.05.
+- Western European countries tend to have higher minimum wages and lower unemployment rates.
+- Eastern European countries show strong minimum wage growth in recent years.
+- The results should be interpreted as descriptive correlations, not as evidence of a causal effect.
 
 ## Authors
 - Qiao Jieyun

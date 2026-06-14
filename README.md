@@ -29,6 +29,8 @@ Recommended environments:
 - JupyterLab
 - Visual Studio Code
 
+The notebook generates `app.py`, `panel_data.csv`, and `region_data.csv`.
+
 ### 3. Run the Streamlit app
 
 ```bash

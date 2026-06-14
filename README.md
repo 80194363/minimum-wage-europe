@@ -4,7 +4,7 @@
 This project analyzes the relationship between minimum wage levels and unemployment rates across 26 European countries from 2003 to 2025 using data from the Eurostat API.
 
 ## Research Question
-What is the relationship between minimum wage levels and unemployment rates in Europe?
+Does a higher minimum wage lead to lower unemployment rates in Europe?
 
 ## Data Sources
 - Minimum wage: Eurostat API (earn_mw_cur)

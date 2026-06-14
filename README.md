@@ -29,7 +29,7 @@ Recommended environments:
 - JupyterLab
 - Visual Studio Code
 
-The notebook generates `app.py`, `panel_data.csv`, and `region_data.csv`.
+The notebook generates `app.py`, `panel_data.csv`, `region_data.csv` and `minimum_wage_map.html`.
 
 ### 3. Run the Streamlit app
 

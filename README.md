@@ -10,6 +10,7 @@ Does a higher minimum wage lead to lower unemployment rates in Europe?
 - Minimum wage: Eurostat API (earn_mw_cur)
 - Unemployment rate: Eurostat API (une_rt_a)
 - Exchange rates: Eurostat API (ert_bil_eur_a)
+- GDP: Eurostat API (nama_10_gdp)
 
 ## How to Run
 
@@ -21,7 +22,7 @@ pip install -r requirements.txt
 
 ### 2. Run the notebook
 
-Open `Analysis.ipynb`
+Open and run `Analysis.ipynb` from start to finish.
 
 Recommended environments:
 - Jupyter Notebook
